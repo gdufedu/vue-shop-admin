@@ -15,5 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 线上体验地址
+http://182.254.166.234:81/#/login
+账号admin
+密码123456
